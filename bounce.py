@@ -69,4 +69,4 @@ while 1:
   paddle.draw()
  tk.update_idletasks()
  tk.update()
- time.sleep(0.001)
+ time.sleep(0.01) # change this value to change speed of the bouncing ball
